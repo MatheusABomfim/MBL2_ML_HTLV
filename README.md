@@ -1,16 +1,11 @@
 # Mest_MBL2_ML_HTLV
 Codes in Python, to implementation of diverse models of Machine Learning, trying to promote prognosis in People Living with HTLV
 
-Divided intially in three documents:
-- The first involved data pre-processing and model evaluation with default parameters
-- The second involved optimizing hyperparameters
-- And in the third, application of Explainable AI (XAI) methods 
-
-After the re-evaluating the process of implementing the models, the codes were completely modified and saved in the folder "scripts_05_06_24". It includes the following steps:
+Divided intially in four documents:
 - Exploratory data analysis
 - Defining the models and optimizing them for our data set
 - Evaluation of the predictive capacity of the models
-- Application of XAI
+- Application of Explainable AI (XAI) methods 
 
 **Notes/reminders:**
 * Clinical data has been excluded
