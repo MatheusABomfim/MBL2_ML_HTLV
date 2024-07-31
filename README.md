@@ -9,12 +9,6 @@ Divided intially in four documents:
 - Evaluation of the predictive capacity of the models
 - Application of Explainable AI (XAI) methods
 
-**Notes/reminders:**
-
-- Clinical data has been excluded (because they will still be extracted from the medical records, classifying the oligosymptomatic patients separately, allowing a better evaluation of the machine)
-- This script is based on the file: "Based on the ML Wine data set" with the appropriate modifications.
-- It uses only one machine-learning evaluation model, several of which will be used in the final master's work. The current script corresponds to a training script developed in conjunction with pacific (more complex).
-
 **Dictionary:**
 
 - In column: SEX
