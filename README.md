@@ -33,14 +33,14 @@ Divided intially in four documents:
 
 #**Categorized data_3:** named as = cat_data_3
 
-Urinary symptoms:
+Urinary symptoms: The presence of any of the following variables caused the data set to be converted into the respective numbers described below:
 
 - Polyuria: 1 +
 - Dysuria: 2
 - Urinary incontinence: 3
 - Nocturia: 4 +
 
-Pain:
+Pain: The presence of any of the following variables caused the data set to be converted into the respective numbers described below:
 
 - non-specific pain: 1
 - Joint pain: 2
@@ -73,7 +73,7 @@ Mental disorders: The presence of any of the following variables caused the data
 - Anxiety/depression: 7
 - Depression : 8
 
-Chronic diseases:
+Chronic diseases: The presence of any of the following variables caused the data set to be converted into the respective numbers described below:
 
 - Diabetes: 1
 - Obesity: 2
