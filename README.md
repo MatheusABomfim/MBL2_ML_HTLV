@@ -31,8 +31,6 @@ Divided intially in four documents:
         - AA = 1
         - OO = 2
 
-**Dictionary:**
-
 #**Categorized data_3:** named as = cat_data_3
 
 Urinary symptoms:
