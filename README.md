@@ -66,10 +66,10 @@ Mental disorders: The presence of any of the following variables caused the data
 
 - Psychotic breaks/compulsive crises: 1
 - Insomnia: 2
-- Outbreak/insomnia/crisis: 3
+- Psychotic crisis: 3
 - Schizophrenia: 4
 - Anxiety: 5
-- Psychiatric illness: 6
+- Psychotic and mood disorders: 6
 - Anxiety/depression: 7
 - Depression : 8
 
