@@ -2,7 +2,7 @@
 
 Codes in Python, to implementation of diverse models of Machine Learning, trying to promote prognosis in People Living with HTLV
 
-Divided intially in four documents:
+Divided in four scripts:
 
 - Exploratory data analysis
 - Defining the models and optimizing them for our data set
